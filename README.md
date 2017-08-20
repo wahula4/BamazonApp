@@ -4,7 +4,7 @@ Bamazon is an Amazon-like storefront using MySQL and Node.js.  There are two opt
 
 The command for the customer view in the terminal is 'node bamazonCustomer', which will return the following:
 
-(customerStep1.PNG)
+![step 1](customerStep1.PNG)
 
 After viewing the list of available products to purchase, the user will enter in the unique ID of the product and will then be prompted for a product quantity.  Once a quantity has been entered, the total cost will be calculated.
 
